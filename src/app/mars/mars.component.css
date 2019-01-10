@@ -1,0 +1,9 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.mars-card {
+    width: 200px;
+    box-sizing: border-box;
+    margin: 16px;
+}
